@@ -62,7 +62,7 @@ SSreg/SStot
 confint(model, level = 0.99)
 
 # Predict baby's weight at 33 weeks
-# First principle
+# First principles
 coef(model)[1]+coef(model)[2]*33
 
 # Using predict function 
