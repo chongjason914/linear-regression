@@ -8,4 +8,5 @@
  - How to make predictions using a linear model
  - Residuals 
  
+ ## Medium article 
  Link to full write-up on Towards Data Science [here](https://towardsdatascience.com/back-to-basics-linear-regression-in-r-3ffe4900482b).
